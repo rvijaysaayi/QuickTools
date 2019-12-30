@@ -16,9 +16,9 @@ Simple | Quick | Efficient
 
 **Sneak -Peak :**
 ![WawsObserver](https://github.com/vijaysaayi/QuickTools/blob/master/Images/02%20-%20Waws%20subscription.png)
-![Applens browse from email](https://github.com/vijaysaayi/QuickTools/blob/master/Images/03%20-%20Applens%20browse%20from%20Email.png)
 ![Applens](https://github.com/vijaysaayi/QuickTools/blob/master/Images/03%20-%20Applens%20browse%20from%20Email.png)
 ![WawsStamp](https://github.com/vijaysaayi/QuickTools/blob/master/Images/04%20-%20Waws%20Stamp%20from%20Screenshot.png)
+![Domain](https://github.com/vijaysaayi/QuickTools/blob/master/Images/06%20-%20APPLENS%20V2%20FROM%20WAWS.png)
 
 **How to use this extension?**
 - Using Mouse clicks:
