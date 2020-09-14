@@ -14,7 +14,7 @@ Simple | Quick | Efficient
    
 ![Screenshot of popup](https://github.com/vijaysaayi/QuickTools/blob/master/Images/01%20-%20Screenshot%20of%20the%20popup.PNG)
 
-## Sneak Peak :
+## Sneak Peek :
 ![WawsObserver](https://github.com/vijaysaayi/QuickTools/blob/master/Images/02%20-%20Waws%20subscription.png)
 ![Applens](https://github.com/vijaysaayi/QuickTools/blob/master/Images/03%20-%20Applens%20browse%20from%20Email.png)
 ![WawsStamp](https://github.com/vijaysaayi/QuickTools/blob/master/Images/04%20-%20Waws%20Stamp%20from%20Screenshot.png)
