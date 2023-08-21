@@ -43,7 +43,12 @@ function createSubMenus(idval, parent_id,titleval,tool,minusMin,kind){
         ago = new Date(ago);
          
         ago = ago.toISOString();
-        var newURL = "https://"+version+".azurewebsites.net/"+envtype+"/"+info.selectionText.trim()+"?startTime="+ago+"&endTime="+today;
+        if(version == "applens"){
+                 var newURL = "https://"+version+".trafficmanager.net/"+envtype+"/"+info.selectionText.trim()+"?startTime="+ago+"&endTime="+today;
+        }
+       else{
+         var newURL = "https://"+version+".azurewebsites.net/"+envtype+"/"+info.selectionText.trim()+"?startTime="+ago+"&endTime="+today;
+       }
         chrome.tabs.create({ url: newURL });
      
       };
